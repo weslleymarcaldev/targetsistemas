@@ -1,7 +1,8 @@
 ```markdown
 # Target Sistemas - Resolução de Desafios
 
-Este repositório contém a resolução de cinco desafios propostos pela Target Sistemas. Abaixo estão os detalhes de cada desafio, os comandos testados no terminal Git Bash e os códigos implementados.
+Este repositório contém a resolução de cinco desafios propostos pela Target Sistemas.
+Abaixo estão os detalhes de cada desafio, os comandos testados no terminal Git Bash e os códigos implementados.
 
 ---
 
